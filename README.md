@@ -1,1 +1,1 @@
-# React-module-events
+# React-components-events
